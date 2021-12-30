@@ -4,10 +4,9 @@
   import { colorMode } from '$lib/store';
 
   const defaultMeta = {
-    title: 'By Wan Saleh',
-    siteName: 'By Wan Saleh',
-    description:
-      'Producer, composer, mixer and mastering engineer. Coder at night.',
+    title: 'SvelteKit Starter',
+    siteName: 'SvelteKit Starter',
+    description: 'SvelteKit Starter With TypeScript & Tailwind.',
     url: 'https://by.wansaleh.com',
     image: 'https://by.wansaleh.com/og.jpg',
     type: 'website',
