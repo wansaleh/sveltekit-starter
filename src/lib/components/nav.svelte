@@ -20,7 +20,7 @@
     <li>
       <a
         rel="external"
-        href="https://github.com/wansaleh/svelte-starter"
+        href="https://github.com/wansaleh/sveltekit-starter"
         class="hover:underline"
       >
         Github
