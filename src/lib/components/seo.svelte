@@ -7,8 +7,8 @@
     title: 'SvelteKit Starter',
     siteName: 'SvelteKit Starter',
     description: 'SvelteKit Starter With TypeScript & Tailwind.',
-    url: 'https://by.wansaleh.com',
-    image: 'https://by.wansaleh.com/og.jpg',
+    url: 'https://sveltekit-starter-wansaleh.vercel.app',
+    image: 'https://sveltekit-starter-wansaleh.vercel.app/og.jpg',
     type: 'website',
     robots: 'follow, index',
   };
