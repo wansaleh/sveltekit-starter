@@ -122,8 +122,8 @@
   <title>{meta.title}</title>
   <meta name="robots" content={meta.robots} />
   <meta name="description" content={meta.description} />
-  <meta property="og:url" content={`${meta.url}${$page.path}`} />
-  <link rel="canonical" href={`${meta.url}${$page.path}`} />
+  <meta property="og:url" content={`${meta.url}${$page.url.pathname}`} />
+  <link rel="canonical" href={`${meta.url}${$page.url.pathname}`} />
 
   <meta property="og:type" content={meta.type} />
   <meta property="og:site_name" content={meta.siteName} />
